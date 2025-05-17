@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi👋 I'm Shubham Kumar
 
-<!--
-**shub-66/shub-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DSA,portfolio website etc..
+- 🌱 I’m currently learning React,tailwind,javascript and etc..
+- 👯 I’m looking to collaborate on open source and hackathon.
+- 💬 Ask me about web devlopement,Git/Github.
+- 😄 He/Him
+- ⚡ I debug code better at night 🌙, I make memes with error messages 😂
+- 📫 Connect with me :
+    - Email - shubham1632004@gmail.com
+- linkdin - www.linkedin.com/in/shubham-kumar-a86751277
+- LANGUAGES AND TOOLS
+- C. C++. My SQL. JAVA 
+- Leetcode - https://leetcode.com/u/shub_66/
+- GFG - https://www.geeksforgeeks.org/user/shub_66/
+- codeforces - https://codeforces.com/profile/Shub_66
+     
+     
